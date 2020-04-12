@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: 3d3d457fa71ec6940b3da3b579892a88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 292255349479754790
+    second: Destructible Objects Sprite Sheet_0
+  - first:
+      213: -932748130190725556
+    second: Destructible Objects Sprite Sheet_1
+  - first:
+      213: 1582425053698755773
+    second: Destructible Objects Sprite Sheet_2
+  - first:
+      213: 7959649193581861483
+    second: Destructible Objects Sprite Sheet_3
+  - first:
+      213: 6160363944353968629
+    second: Destructible Objects Sprite Sheet_4
+  - first:
+      213: 1799916522789509586
+    second: Destructible Objects Sprite Sheet_5
+  - first:
+      213: -1648602787692250297
+    second: Destructible Objects Sprite Sheet_6
+  - first:
+      213: -8067680791049444068
+    second: Destructible Objects Sprite Sheet_7
+  - first:
+      213: 2011381963528960105
+    second: Destructible Objects Sprite Sheet_8
+  - first:
+      213: -8107244543595167301
+    second: Destructible Objects Sprite Sheet_9
+  - first:
+      213: 432701033163590397
+    second: Destructible Objects Sprite Sheet_10
+  - first:
+      213: -3141877243300319094
+    second: Destructible Objects Sprite Sheet_11
+  - first:
+      213: -864388446597429157
+    second: Destructible Objects Sprite Sheet_12
+  - first:
+      213: 1371090950219775820
+    second: Destructible Objects Sprite Sheet_13
+  - first:
+      213: 4122332672582355637
+    second: Destructible Objects Sprite Sheet_14
+  - first:
+      213: -3537842046830857693
+    second: Destructible Objects Sprite Sheet_15
+  - first:
+      213: -5843987367183270612
+    second: Destructible Objects Sprite Sheet_16
+  - first:
+      213: 7849210222086974765
+    second: Destructible Objects Sprite Sheet_17
+  - first:
+      213: -7693891840564005866
+    second: Destructible Objects Sprite Sheet_18
+  - first:
+      213: -3462413336217375861
+    second: Destructible Objects Sprite Sheet_19
+  - first:
+      213: -6758789238592231902
+    second: Destructible Objects Sprite Sheet_20
+  - first:
+      213: -455544863007077555
+    second: Destructible Objects Sprite Sheet_21
+  - first:
+      213: -615592901155175987
+    second: Destructible Objects Sprite Sheet_22
+  - first:
+      213: 8394009037932400597
+    second: Destructible Objects Sprite Sheet_23
+  - first:
+      213: 4672279667404971150
+    second: Destructible Objects Sprite Sheet_24
+  - first:
+      213: -5170666060877672333
+    second: Destructible Objects Sprite Sheet_25
+  - first:
+      213: 921045809163319282
+    second: Destructible Objects Sprite Sheet_26
+  - first:
+      213: -632785219312142140
+    second: Destructible Objects Sprite Sheet_27
+  - first:
+      213: -1721650843703308319
+    second: Destructible Objects Sprite Sheet_28
+  - first:
+      213: -8983803684840685981
+    second: Destructible Objects Sprite Sheet_29
+  - first:
+      213: -3045468344751850004
+    second: Destructible Objects Sprite Sheet_30
+  - first:
+      213: -3242005725895249592
+    second: Destructible Objects Sprite Sheet_31
+  - first:
+      213: 5019928738718300370
+    second: Destructible Objects Sprite Sheet_32
+  - first:
+      213: -2825822775545003499
+    second: Destructible Objects Sprite Sheet_33
+  - first:
+      213: -7221143909529224454
+    second: Destructible Objects Sprite Sheet_34
+  - first:
+      213: -7020764519637218114
+    second: Destructible Objects Sprite Sheet_35
+  - first:
+      213: 7947795333966562039
+    second: Destructible Objects Sprite Sheet_36
+  - first:
+      213: -4024150420658532190
+    second: Destructible Objects Sprite Sheet_37
+  - first:
+      213: -1990159053091207395
+    second: Destructible Objects Sprite Sheet_38
+  - first:
+      213: -2746156789159905877
+    second: Destructible Objects Sprite Sheet_39
+  - first:
+      213: 1417646081996595011
+    second: Destructible Objects Sprite Sheet_40
+  - first:
+      213: 4163507373784577112
+    second: Destructible Objects Sprite Sheet_41
+  - first:
+      213: -3081563582286838631
+    second: Destructible Objects Sprite Sheet_42
+  - first:
+      213: -9154969212083399652
+    second: Destructible Objects Sprite Sheet_43
+  - first:
+      213: 4229474737810804166
+    second: Destructible Objects Sprite Sheet_44
+  - first:
+      213: -8595334514856485489
+    second: Destructible Objects Sprite Sheet_45
+  - first:
+      213: -1007707852845651125
+    second: Destructible Objects Sprite Sheet_46
+  - first:
+      213: -1243509563960051801
+    second: Destructible Objects Sprite Sheet_47
+  - first:
+      213: 5533500101061275615
+    second: Destructible Objects Sprite Sheet_48
+  - first:
+      213: 9036985989256870549
+    second: Destructible Objects Sprite Sheet_49
+  - first:
+      213: 5470495425578279035
+    second: Destructible Objects Sprite Sheet_50
+  - first:
+      213: -4243615266742608267
+    second: Destructible Objects Sprite Sheet_51
+  - first:
+      213: 4981649856395793942
+    second: Destructible Objects Sprite Sheet_52
+  - first:
+      213: 3131440849399946305
+    second: Destructible Objects Sprite Sheet_53
+  - first:
+      213: -2881063023264799871
+    second: Destructible Objects Sprite Sheet_54
+  - first:
+      213: 8669984699374520145
+    second: Destructible Objects Sprite Sheet_55
+  - first:
+      213: -1208394654508602111
+    second: Destructible Objects Sprite Sheet_56
+  - first:
+      213: 7303335959013401025
+    second: Destructible Objects Sprite Sheet_57
+  - first:
+      213: 7046527118174898345
+    second: Destructible Objects Sprite Sheet_58
+  - first:
+      213: -3252207758363198516
+    second: Destructible Objects Sprite Sheet_59
+  - first:
+      213: 7653697436246385554
+    second: Destructible Objects Sprite Sheet_60
+  - first:
+      213: -1115218574054285545
+    second: Destructible Objects Sprite Sheet_61
+  - first:
+      213: -8763667337187471418
+    second: Destructible Objects Sprite Sheet_62
+  - first:
+      213: 4451827123125000643
+    second: Destructible Objects Sprite Sheet_63
+  - first:
+      213: -7026925969855176658
+    second: Destructible Objects Sprite Sheet_64
+  - first:
+      213: 5498238296500043403
+    second: Destructible Objects Sprite Sheet_65
+  - first:
+      213: -1019784764540951239
+    second: Destructible Objects Sprite Sheet_66
+  - first:
+      213: 2997152352636118176
+    second: Destructible Objects Sprite Sheet_67
+  - first:
+      213: -7973440750577278013
+    second: Destructible Objects Sprite Sheet_68
+  - first:
+      213: 3481194551599036167
+    second: Destructible Objects Sprite Sheet_69
+  - first:
+      213: -1504648732277040490
+    second: Destructible Objects Sprite Sheet_70
+  - first:
+      213: -5701843593503726113
+    second: Destructible Objects Sprite Sheet_71
+  - first:
+      213: -1073619505099928984
+    second: Destructible Objects Sprite Sheet_72
+  - first:
+      213: 6517018653777121662
+    second: Destructible Objects Sprite Sheet_73
+  - first:
+      213: -5615861936111071051
+    second: Destructible Objects Sprite Sheet_74
+  - first:
+      213: 6833248316011903354
+    second: Destructible Objects Sprite Sheet_75
+  - first:
+      213: 5259879250665101053
+    second: Destructible Objects Sprite Sheet_76
+  - first:
+      213: 4987411031088071948
+    second: Destructible Objects Sprite Sheet_77
+  - first:
+      213: 7485742115905066554
+    second: Destructible Objects Sprite Sheet_78
+  - first:
+      213: -8554020869359237534
+    second: Destructible Objects Sprite Sheet_79
+  - first:
+      213: -7138394470310454198
+    second: Destructible Objects Sprite Sheet_80
+  - first:
+      213: 1911732572010292578
+    second: Destructible Objects Sprite Sheet_81
+  - first:
+      213: 1004239032145031262
+    second: Destructible Objects Sprite Sheet_82
+  - first:
+      213: 4728290025198345693
+    second: Destructible Objects Sprite Sheet_83
+  - first:
+      213: -8817267153456007720
+    second: Destructible Objects Sprite Sheet_84
+  - first:
+      213: -655058411200351546
+    second: Destructible Objects Sprite Sheet_85
+  - first:
+      213: 1886644568808114209
+    second: Destructible Objects Sprite Sheet_86
+  - first:
+      213: 1954262414506730966
+    second: Destructible Objects Sprite Sheet_87
+  - first:
+      213: -5935327274519614792
+    second: Destructible Objects Sprite Sheet_88
+  - first:
+      213: 3547181090872931466
+    second: Destructible Objects Sprite Sheet_89
+  - first:
+      213: 5818948292652218207
+    second: Destructible Objects Sprite Sheet_90
+  - first:
+      213: -9018680243654284414
+    second: Destructible Objects Sprite Sheet_91
+  - first:
+      213: 3166491754901328195
+    second: Destructible Objects Sprite Sheet_92
+  - first:
+      213: -1152137593246941152
+    second: Destructible Objects Sprite Sheet_93
+  - first:
+      213: 1427702706114185192
+    second: Destructible Objects Sprite Sheet_94
+  - first:
+      213: 2345391765530215971
+    second: Destructible Objects Sprite Sheet_95
+  - first:
+      213: -2974229488533837898
+    second: Destructible Objects Sprite Sheet_96
+  - first:
+      213: -9135551048280918630
+    second: Destructible Objects Sprite Sheet_97
+  - first:
+      213: 4650843862663958768
+    second: Destructible Objects Sprite Sheet_98
+  - first:
+      213: 6472268952960056195
+    second: Destructible Objects Sprite Sheet_99
+  - first:
+      213: 3845290251565042635
+    second: Destructible Objects Sprite Sheet_100
+  - first:
+      213: -8806399591206711280
+    second: Destructible Objects Sprite Sheet_101
+  - first:
+      213: 7370183463894855315
+    second: Destructible Objects Sprite Sheet_102
+  - first:
+      213: 2048649900278235160
+    second: Destructible Objects Sprite Sheet_103
+  - first:
+      213: 6202320652851818961
+    second: Destructible Objects Sprite Sheet_104
+  - first:
+      213: 4306976872954443008
+    second: Destructible Objects Sprite Sheet_105
+  - first:
+      213: -53200705947662558
+    second: Destructible Objects Sprite Sheet_106
+  - first:
+      213: -3031168977887821269
+    second: Destructible Objects Sprite Sheet_107
+  - first:
+      213: -4629544752655577323
+    second: Destructible Objects Sprite Sheet_108
+  - first:
+      213: 8493798129581796557
+    second: Destructible Objects Sprite Sheet_109
+  - first:
+      213: -8152178654112233344
+    second: Destructible Objects Sprite Sheet_110
+  - first:
+      213: -2524463137068580542
+    second: Destructible Objects Sprite Sheet_111
+  - first:
+      213: -359474772231006356
+    second: Destructible Objects Sprite Sheet_112
+  - first:
+      213: 3555260962315015364
+    second: Destructible Objects Sprite Sheet_113
+  - first:
+      213: 7465433420716092772
+    second: Destructible Objects Sprite Sheet_114
+  - first:
+      213: -4686543528104362183
+    second: Destructible Objects Sprite Sheet_115
+  - first:
+      213: -3940446051484785513
+    second: Destructible Objects Sprite Sheet_116
+  - first:
+      213: -1286469346424494748
+    second: Destructible Objects Sprite Sheet_117
+  - first:
+      213: -8852420565309075304
+    second: Destructible Objects Sprite Sheet_118
+  - first:
+      213: -8593911681731194739
+    second: Destructible Objects Sprite Sheet_119
+  - first:
+      213: 1384797907188261365
+    second: Destructible Objects Sprite Sheet_120
+  - first:
+      213: -1644156694376958665
+    second: Destructible Objects Sprite Sheet_121
+  - first:
+      213: -6235603519746752157
+    second: Destructible Objects Sprite Sheet_122
+  - first:
+      213: 3659082997562140483
+    second: Destructible Objects Sprite Sheet_123
+  - first:
+      213: 8161283633306620180
+    second: Destructible Objects Sprite Sheet_124
+  - first:
+      213: 8551940443542517757
+    second: Destructible Objects Sprite Sheet_125
+  - first:
+      213: -2973365772132706639
+    second: Destructible Objects Sprite Sheet_126
+  - first:
+      213: 3228150483781051961
+    second: Destructible Objects Sprite Sheet_127
+  - first:
+      213: 5366362392197442086
+    second: Destructible Objects Sprite Sheet_128
+  - first:
+      213: -2529692156252671196
+    second: Destructible Objects Sprite Sheet_129
+  - first:
+      213: -5342467963176094640
+    second: Destructible Objects Sprite Sheet_130
+  - first:
+      213: -3102888569664245710
+    second: Destructible Objects Sprite Sheet_131
+  - first:
+      213: -172749789664522126
+    second: Destructible Objects Sprite Sheet_132
+  - first:
+      213: -5704029953682011385
+    second: Destructible Objects Sprite Sheet_133
+  - first:
+      213: -9103616625325688658
+    second: Destructible Objects Sprite Sheet_134
+  - first:
+      213: 3270367936538672214
+    second: Destructible Objects Sprite Sheet_135
+  - first:
+      213: -8311862973914107098
+    second: Destructible Objects Sprite Sheet_136
+  - first:
+      213: -8063888824943263425
+    second: Destructible Objects Sprite Sheet_137
+  - first:
+      213: -79230150906434259
+    second: Destructible Objects Sprite Sheet_138
+  - first:
+      213: -4060600549892306824
+    second: Destructible Objects Sprite Sheet_139
+  - first:
+      213: -6189850846861189481
+    second: Destructible Objects Sprite Sheet_140
+  - first:
+      213: -6181401623932475477
+    second: Destructible Objects Sprite Sheet_141
+  - first:
+      213: -85790276794738073
+    second: Destructible Objects Sprite Sheet_142
+  - first:
+      213: 4945381009821620250
+    second: Destructible Objects Sprite Sheet_143
+  - first:
+      213: -281277270950010184
+    second: Destructible Objects Sprite Sheet_144
+  - first:
+      213: -1471195955216967703
+    second: Destructible Objects Sprite Sheet_145
+  - first:
+      213: -4081639614336942971
+    second: Destructible Objects Sprite Sheet_146
+  - first:
+      213: -1132670257877194646
+    second: Destructible Objects Sprite Sheet_147
+  - first:
+      213: 7280775321075725130
+    second: Destructible Objects Sprite Sheet_148
+  - first:
+      213: 6321985916182106151
+    second: Destructible Objects Sprite Sheet_149
+  - first:
+      213: 1878657742207390786
+    second: Destructible Objects Sprite Sheet_150
+  - first:
+      213: -5984886157386264479
+    second: Destructible Objects Sprite Sheet_151
+  - first:
+      213: 2479016156838503099
+    second: Destructible Objects Sprite Sheet_152
+  - first:
+      213: -6803330155169550422
+    second: Destructible Objects Sprite Sheet_153
+  - first:
+      213: 4840105189318152018
+    second: Destructible Objects Sprite Sheet_154
+  - first:
+      213: 1563779351096967801
+    second: Destructible Objects Sprite Sheet_155
+  - first:
+      213: -2040573783062150582
+    second: Destructible Objects Sprite Sheet_156
+  - first:
+      213: 3537591003598382257
+    second: Destructible Objects Sprite Sheet_157
+  - first:
+      213: -3653314428464484568
+    second: Destructible Objects Sprite Sheet_158
+  - first:
+      213: 6816281685224587611
+    second: Destructible Objects Sprite Sheet_159
+  - first:
+      213: 2463015164895287996
+    second: Destructible Objects Sprite Sheet_160
+  - first:
+      213: 8658888959103524003
+    second: Destructible Objects Sprite Sheet_161
+  - first:
+      213: 1707786889121313276
+    second: Destructible Objects Sprite Sheet_162
+  - first:
+      213: 7054118728933716157
+    second: Destructible Objects Sprite Sheet_163
+  - first:
+      213: -4338434888853795812
+    second: Destructible Objects Sprite Sheet_164
+  - first:
+      213: 5562053203120122178
+    second: Destructible Objects Sprite Sheet_165
+  - first:
+      213: 3419998837659141531
+    second: Destructible Objects Sprite Sheet_166
+  - first:
+      213: -3089644649724782871
+    second: Destructible Objects Sprite Sheet_167
+  - first:
+      213: 56376686318765276
+    second: Destructible Objects Sprite Sheet_168
+  - first:
+      213: -8935036772328659179
+    second: Destructible Objects Sprite Sheet_169
+  - first:
+      213: 7616168906372600424
+    second: Destructible Objects Sprite Sheet_170
+  - first:
+      213: 4431631906706008480
+    second: Destructible Objects Sprite Sheet_171
+  - first:
+      213: -552561990465679824
+    second: Destructible Objects Sprite Sheet_172
+  - first:
+      213: 938108084057060068
+    second: Destructible Objects Sprite Sheet_173
+  - first:
+      213: -6983410236677498089
+    second: Destructible Objects Sprite Sheet_174
+  - first:
+      213: 4133223340830603776
+    second: Destructible Objects Sprite Sheet_175
+  - first:
+      213: -7064530510276859050
+    second: Destructible Objects Sprite Sheet_176
+  - first:
+      213: 2162521201003364483
+    second: Destructible Objects Sprite Sheet_177
+  - first:
+      213: 1595818008213610398
+    second: Destructible Objects Sprite Sheet_178
+  - first:
+      213: 3496916485813711051
+    second: Destructible Objects Sprite Sheet_179
+  - first:
+      213: 5185881460691562324
+    second: Destructible Objects Sprite Sheet_180
+  - first:
+      213: 721454772323403374
+    second: Destructible Objects Sprite Sheet_181
+  - first:
+      213: 5025581974022560997
+    second: Destructible Objects Sprite Sheet_182
+  - first:
+      213: -8416508786011135232
+    second: Destructible Objects Sprite Sheet_183
+  - first:
+      213: 7945712471031857398
+    second: Destructible Objects Sprite Sheet_184
+  - first:
+      213: -863734211268045259
+    second: Destructible Objects Sprite Sheet_185
+  - first:
+      213: -4120899677507936713
+    second: Destructible Objects Sprite Sheet_186
+  - first:
+      213: -298534586723037905
+    second: Destructible Objects Sprite Sheet_187
+  - first:
+      213: 1294124481118788227
+    second: Destructible Objects Sprite Sheet_188
+  - first:
+      213: -3018025480988439630
+    second: Destructible Objects Sprite Sheet_189
+  - first:
+      213: 570278994933142339
+    second: Destructible Objects Sprite Sheet_190
+  - first:
+      213: -8752526487504063514
+    second: Destructible Objects Sprite Sheet_191
+  - first:
+      213: -5183838596364978135
+    second: Destructible Objects Sprite Sheet_192
+  - first:
+      213: -5370549709954133161
+    second: Destructible Objects Sprite Sheet_193
+  - first:
+      213: 4499370269500242445
+    second: Destructible Objects Sprite Sheet_194
+  - first:
+      213: 4506871930077822250
+    second: Destructible Objects Sprite Sheet_195
+  - first:
+      213: 1728993124023052575
+    second: Destructible Objects Sprite Sheet_196
+  - first:
+      213: -667820133759591367
+    second: Destructible Objects Sprite Sheet_197
+  - first:
+      213: -8467409753562334948
+    second: Destructible Objects Sprite Sheet_198
+  - first:
+      213: -1434277456495726269
+    second: Destructible Objects Sprite Sheet_199
+  - first:
+      213: -3451943698665939739
+    second: Destructible Objects Sprite Sheet_200
+  - first:
+      213: 1114260395088311819
+    second: Destructible Objects Sprite Sheet_201
+  - first:
+      213: -7907943314604273784
+    second: Destructible Objects Sprite Sheet_202
+  - first:
+      213: 2392748419797980743
+    second: Destructible Objects Sprite Sheet_203
+  - first:
+      213: -5878899321342560076
+    second: Destructible Objects Sprite Sheet_204
+  - first:
+      213: 5356904312402088134
+    second: Destructible Objects Sprite Sheet_205
+  - first:
+      213: -2552710222564382728
+    second: Destructible Objects Sprite Sheet_206
+  - first:
+      213: 8540935852716383109
+    second: Destructible Objects Sprite Sheet_207
+  - first:
+      213: 505833059544013903
+    second: Destructible Objects Sprite Sheet_208
+  - first:
+      213: -1091198057428742968
+    second: Destructible Objects Sprite Sheet_209
+  - first:
+      213: 5549214801706594668
+    second: Destructible Objects Sprite Sheet_210
+  - first:
+      213: -273350256999511997
+    second: Destructible Objects Sprite Sheet_211
+  - first:
+      213: 3567855803014735675
+    second: Destructible Objects Sprite Sheet_212
+  - first:
+      213: 2217913503053716011
+    second: Destructible Objects Sprite Sheet_213
+  - first:
+      213: 6400859968854687521
+    second: Destructible Objects Sprite Sheet_214
+  - first:
+      213: -6044590653004136852
+    second: Destructible Objects Sprite Sheet_215
+  - first:
+      213: 4874108842204806459
+    second: Destructible Objects Sprite Sheet_216
+  - first:
+      213: -4716199233676832611
+    second: Destructible Objects Sprite Sheet_217
+  - first:
+      213: -5542058083846702395
+    second: Destructible Objects Sprite Sheet_218
+  - first:
+      213: 5752603403376891002
+    second: Destructible Objects Sprite Sheet_219
+  - first:
+      213: 8471313107578276614
+    second: Destructible Objects Sprite Sheet_220
+  - first:
+      213: -5458062426530059991
+    second: Destructible Objects Sprite Sheet_221
+  - first:
+      213: -9194799246380215686
+    second: Destructible Objects Sprite Sheet_222
+  - first:
+      213: -4797921073931078530
+    second: Destructible Objects Sprite Sheet_223
+  - first:
+      213: -3779549548703840356
+    second: Destructible Objects Sprite Sheet_224
+  - first:
+      213: -2907591086165475778
+    second: Destructible Objects Sprite Sheet_225
+  - first:
+      213: -3036351697670000213
+    second: Destructible Objects Sprite Sheet_226
+  - first:
+      213: -1785330975730763496
+    second: Destructible Objects Sprite Sheet_227
+  - first:
+      213: -7838467944659657147
+    second: Destructible Objects Sprite Sheet_228
+  - first:
+      213: -1868670414416384213
+    second: Destructible Objects Sprite Sheet_229
+  - first:
+      213: 4593186101079908739
+    second: Destructible Objects Sprite Sheet_230
+  - first:
+      213: 5814783988751837915
+    second: Destructible Objects Sprite Sheet_231
+  - first:
+      213: 664808839702896180
+    second: Destructible Objects Sprite Sheet_232
+  - first:
+      213: -8989613051907365375
+    second: Destructible Objects Sprite Sheet_233
+  - first:
+      213: 8440182627295414893
+    second: Destructible Objects Sprite Sheet_234
+  - first:
+      213: -5351541576748560859
+    second: Destructible Objects Sprite Sheet_235
+  - first:
+      213: 6480012482833854446
+    second: Destructible Objects Sprite Sheet_236
+  - first:
+      213: 2418884845487156754
+    second: Destructible Objects Sprite Sheet_237
+  - first:
+      213: 6967064186067534452
+    second: Destructible Objects Sprite Sheet_238
+  - first:
+      213: 1995288249730521098
+    second: Destructible Objects Sprite Sheet_239
+  - first:
+      213: -3976569439612862434
+    second: Destructible Objects Sprite Sheet_240
+  - first:
+      213: -6144361510602444787
+    second: Destructible Objects Sprite Sheet_241
+  - first:
+      213: -4733280750684833961
+    second: Destructible Objects Sprite Sheet_242
+  - first:
+      213: -7237721576089843130
+    second: Destructible Objects Sprite Sheet_243
+  - first:
+      213: -8231338304378816770
+    second: Destructible Objects Sprite Sheet_244
+  - first:
+      213: -2309945120476053479
+    second: Destructible Objects Sprite Sheet_245
+  - first:
+      213: 5475405676656070727
+    second: Destructible Objects Sprite Sheet_246
+  - first:
+      213: -7583395968291037505
+    second: Destructible Objects Sprite Sheet_247
+  - first:
+      213: 820566124153453824
+    second: Destructible Objects Sprite Sheet_248
+  - first:
+      213: 4708839851248481845
+    second: Destructible Objects Sprite Sheet_249
+  - first:
+      213: 5509680312566162026
+    second: Destructible Objects Sprite Sheet_250
+  - first:
+      213: 4418881617808823644
+    second: Destructible Objects Sprite Sheet_251
+  - first:
+      213: 8075816551004272783
+    second: Destructible Objects Sprite Sheet_252
+  - first:
+      213: -2360827214522441390
+    second: Destructible Objects Sprite Sheet_253
+  - first:
+      213: 7278066945598302324
+    second: Destructible Objects Sprite Sheet_254
+  - first:
+      213: 3441129049359929087
+    second: Destructible Objects Sprite Sheet_255
+  - first:
+      213: 3226827321655875592
+    second: Destructible Objects Sprite Sheet_256
+  - first:
+      213: 4758298293472392995
+    second: Destructible Objects Sprite Sheet_257
+  - first:
+      213: -7530328334368108987
+    second: Destructible Objects Sprite Sheet_258
+  - first:
+      213: -1413758438580643312
+    second: Destructible Objects Sprite Sheet_259
+  - first:
+      213: 3625363832775554880
+    second: Destructible Objects Sprite Sheet_260
+  - first:
+      213: -5230656596030429848
+    second: Destructible Objects Sprite Sheet_261
+  - first:
+      213: 3249389032515244648
+    second: Destructible Objects Sprite Sheet_262
+  - first:
+      213: -5748439494117203776
+    second: Destructible Objects Sprite Sheet_263
+  - first:
+      213: 5104124337469600876
+    second: Destructible Objects Sprite Sheet_264
+  - first:
+      213: 672642886603802877
+    second: Destructible Objects Sprite Sheet_265
+  - first:
+      213: 6569774143281316573
+    second: Destructible Objects Sprite Sheet_266
+  - first:
+      213: 8611217378601402263
+    second: Destructible Objects Sprite Sheet_267
+  - first:
+      213: -1145764704707839113
+    second: Destructible Objects Sprite Sheet_268
+  - first:
+      213: 3556736436003779486
+    second: Destructible Objects Sprite Sheet_269
+  - first:
+      213: 2413922774482626929
+    second: Destructible Objects Sprite Sheet_270
+  - first:
+      213: 8460841796556736155
+    second: Destructible Objects Sprite Sheet_271
+  - first:
+      213: -8743930055046784853
+    second: Destructible Objects Sprite Sheet_272
+  - first:
+      213: 3408208403397854300
+    second: Destructible Objects Sprite Sheet_273
+  - first:
+      213: -6413984862064190642
+    second: Destructible Objects Sprite Sheet_274
+  - first:
+      213: -2178559953768989164
+    second: Destructible Objects Sprite Sheet_275
+  - first:
+      213: -2721203464650074066
+    second: Destructible Objects Sprite Sheet_276
+  - first:
+      213: 3408276384309150846
+    second: Destructible Objects Sprite Sheet_277
+  - first:
+      213: 6626264639486931418
+    second: Destructible Objects Sprite Sheet_278
+  - first:
+      213: -5853975008144159836
+    second: Destructible Objects Sprite Sheet_279
+  - first:
+      213: -1019920136134925247
+    second: Destructible Objects Sprite Sheet_280
+  - first:
+      213: 7396261453358111733
+    second: Destructible Objects Sprite Sheet_281
+  - first:
+      213: 893667754157588417
+    second: Destructible Objects Sprite Sheet_282
+  - first:
+      213: 1948993593480675215
+    second: Destructible Objects Sprite Sheet_283
+  - first:
+      213: -7980199100056477641
+    second: Destructible Objects Sprite Sheet_284
+  - first:
+      213: 8648762410566796518
+    second: Destructible Objects Sprite Sheet_285
+  - first:
+      213: 4909247533120380778
+    second: Destructible Objects Sprite Sheet_286
+  - first:
+      213: -3997814089834297486
+    second: Destructible Objects Sprite Sheet_287
+  - first:
+      213: -2958129157444959313
+    second: Destructible Objects Sprite Sheet_288
+  - first:
+      213: -4332391735928776753
+    second: Destructible Objects Sprite Sheet_289
+  - first:
+      213: 1611536749347076296
+    second: Destructible Objects Sprite Sheet_290
+  - first:
+      213: 8048029091927102521
+    second: Destructible Objects Sprite Sheet_291
+  - first:
+      213: -790247847471068968
+    second: Destructible Objects Sprite Sheet_292
+  - first:
+      213: 6865675240776574504
+    second: Destructible Objects Sprite Sheet_293
+  - first:
+      213: 9018007624214958626
+    second: Destructible Objects Sprite Sheet_294
+  - first:
+      213: 5911095984863373212
+    second: Destructible Objects Sprite Sheet_295
+  - first:
+      213: 3819974679824583000
+    second: Destructible Objects Sprite Sheet_296
+  - first:
+      213: 5796112084554659070
+    second: Destructible Objects Sprite Sheet_297
+  - first:
+      213: 2113769472500285405
+    second: Destructible Objects Sprite Sheet_298
+  - first:
+      213: -7432516275428714686
+    second: Destructible Objects Sprite Sheet_299
+  - first:
+      213: -7141562045955293393
+    second: Destructible Objects Sprite Sheet_300
+  - first:
+      213: 6370253940194609363
+    second: Destructible Objects Sprite Sheet_301
+  - first:
+      213: 4918488806474134189
+    second: Destructible Objects Sprite Sheet_302
+  - first:
+      213: 5247434703332083039
+    second: Destructible Objects Sprite Sheet_303
+  - first:
+      213: 8727705281718395423
+    second: Destructible Objects Sprite Sheet_304
+  - first:
+      213: -4110777197438988944
+    second: Destructible Objects Sprite Sheet_305
+  - first:
+      213: -6882172038446543029
+    second: Destructible Objects Sprite Sheet_306
+  - first:
+      213: -1709754120021906578
+    second: Destructible Objects Sprite Sheet_307
+  - first:
+      213: 4529246691803969639
+    second: Destructible Objects Sprite Sheet_308
+  - first:
+      213: -5890362878568891856
+    second: Destructible Objects Sprite Sheet_309
+  - first:
+      213: -1415116126108906062
+    second: Destructible Objects Sprite Sheet_310
+  - first:
+      213: -743684435281541363
+    second: Destructible Objects Sprite Sheet_311
+  - first:
+      213: 1553220963416868124
+    second: Destructible Objects Sprite Sheet_312
+  - first:
+      213: 8901234405529232593
+    second: Destructible Objects Sprite Sheet_313
+  - first:
+      213: -7162539896548487606
+    second: Destructible Objects Sprite Sheet_314
+  - first:
+      213: -6693625066343699002
+    second: Destructible Objects Sprite Sheet_315
+  - first:
+      213: 1985102228563911553
+    second: Destructible Objects Sprite Sheet_316
+  - first:
+      213: 8705597629038028041
+    second: Destructible Objects Sprite Sheet_317
+  - first:
+      213: -8496138437521539335
+    second: Destructible Objects Sprite Sheet_318
+  - first:
+      213: -6212489196766051396
+    second: Destructible Objects Sprite Sheet_319
+  - first:
+      213: 7222341250769728250
+    second: Destructible Objects Sprite Sheet_320
+  - first:
+      213: -2778480511088295459
+    second: Destructible Objects Sprite Sheet_321
+  - first:
+      213: 1764396761666546994
+    second: Destructible Objects Sprite Sheet_322
+  - first:
+      213: 1037479856631598403
+    second: Destructible Objects Sprite Sheet_323
+  - first:
+      213: 7445370393226277637
+    second: Destructible Objects Sprite Sheet_324
+  - first:
+      213: 367381861670858540
+    second: Destructible Objects Sprite Sheet_325
+  - first:
+      213: 6763075276594894275
+    second: Destructible Objects Sprite Sheet_326
+  - first:
+      213: 4326441867751278063
+    second: Destructible Objects Sprite Sheet_327
+  - first:
+      213: 2793638389644987133
+    second: Destructible Objects Sprite Sheet_328
+  - first:
+      213: -3959588506341980598
+    second: Destructible Objects Sprite Sheet_329
+  - first:
+      213: 5449947168020552791
+    second: Destructible Objects Sprite Sheet_330
+  - first:
+      213: 8921676672446560224
+    second: Destructible Objects Sprite Sheet_331
+  - first:
+      213: 2838621005740560999
+    second: Destructible Objects Sprite Sheet_332
+  - first:
+      213: 9172761157532024028
+    second: Destructible Objects Sprite Sheet_333
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9643278089824e80ac6a0f2b96392
+      internalID: 292255349479754790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a92f2b2f24c048b742bcb8239de9b
+      internalID: -932748130190725556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ac0838b0d48e49b527eccafa0cc7f
+      internalID: 1582425053698755773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e944685941906f449b5b77d5c453860
+      internalID: 7959649193581861483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f34c612a4401b48965a3d8e181594c
+      internalID: 6160363944353968629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3de7f6e524aee478a4485058029ed9
+      internalID: 1799916522789509586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a7e227e0d1854eb17d9ef6082113b
+      internalID: -1648602787692250297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161645196ae803a4289a2663c9d153cb
+      internalID: -8067680791049444068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2d46e8c96b3c54bb2c4d7fa4ad53d1
+      internalID: 2011381963528960105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414680c2ce02944b928c8b202075570
+      internalID: -8107244543595167301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a577c1df199624e8098caf6a9d45be
+      internalID: 432701033163590397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faab2aa989ae9c64dbab9fb1f204194a
+      internalID: -3141877243300319094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd2c4ccf13e2674cb29c45c71ed1343
+      internalID: -864388446597429157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f773dd22507c7642b1221556eaae975
+      internalID: 1371090950219775820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc10e6d8546a2b447af48b851cbe0f02
+      internalID: 4122332672582355637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8c516c275e5f41b32bef1ffb99532
+      internalID: -3537842046830857693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412f42cef9ade0a48b39f8ddb38a1383
+      internalID: -5843987367183270612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248bb43f7efca048a3667fe2b0c727d
+      internalID: 7849210222086974765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b5d0f7df67b8e4fbbd605e0582330a
+      internalID: -7693891840564005866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634d73fa2bf1144a9a5cc4e0a50c4d7
+      internalID: -3462413336217375861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c835015d98a3944b8408b5bb3e4fe3d
+      internalID: -6758789238592231902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae076d93a781fa8458f2330fc034bd20
+      internalID: -455544863007077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a3d1d992bc4a4a91484a686e5d4fe
+      internalID: -615592901155175987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93b7595d7784c4183e8645a30004ee
+      internalID: 8394009037932400597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c8daeb06abd345b62f7bb224610d7
+      internalID: 4672279667404971150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9156c769a8ccde45895e726d23ac240
+      internalID: -5170666060877672333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacb5ce32df7d6b418d9a1035eac610d
+      internalID: 921045809163319282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a63f8f7e3f4d94889ae66e50d4cd00
+      internalID: -632785219312142140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad847af6699f306438ffda517636db63
+      internalID: -1721650843703308319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741aadcbf29d814e8c6db38b7a6f870
+      internalID: -8983803684840685981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52950ff7623ae3244a70fdc057afce3e
+      internalID: -3045468344751850004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86af81dadd98af4f8261f0cf4b49fbf
+      internalID: -3242005725895249592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711db0d91c523d45a6fbacd159f9d0b
+      internalID: 5019928738718300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa513cadd810cd14f9944fed30ff4418
+      internalID: -2825822775545003499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd1a9426d990448afd09f106afccbb
+      internalID: -7221143909529224454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cdb10fed14154eafaf1eefc9ec40f
+      internalID: -7020764519637218114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38addfc6c61a9e74f896782f8c52c6eb
+      internalID: 7947795333966562039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed19a26976b3243ad616c4ed1120be
+      internalID: -4024150420658532190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5c3f6c4341c74495ae939ac297e8d
+      internalID: -1990159053091207395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ee3e2172be2f4da5d684623115b7a
+      internalID: -2746156789159905877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c732d7dbb0d9b47ad826aa5aeeec79
+      internalID: 1417646081996595011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1e1b7ebb9959488245ba7aa6dd232
+      internalID: 4163507373784577112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a55968b3d3ba5d4782f415db8381450
+      internalID: -3081563582286838631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9946454ceeb3b3d49b2ea4b86bde1933
+      internalID: -9154969212083399652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d899651de5877746af4f47d7a6cd36f
+      internalID: 4229474737810804166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9fb1a7cbbcc6046a73aaa527010c27
+      internalID: -8595334514856485489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec41b9d278d434e889959abea361d7
+      internalID: -1007707852845651125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a207a4432bd24fadc0cb53e71080b
+      internalID: -1243509563960051801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b685b33a4dd247b73e2aed1610d6e
+      internalID: 5533500101061275615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b750c95c2599ae46905f50106faf626
+      internalID: 9036985989256870549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5c192d87ead44581d448c17a2c608
+      internalID: 5470495425578279035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbd99fed551414bab1d5962a4f6e13
+      internalID: -4243615266742608267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eacf53cbb772fc4ea9cbb6857121c26
+      internalID: 4981649856395793942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9a9e3226d4a164382ab5e3db4bd251
+      internalID: 3131440849399946305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ca76d7fca8384bba143e36a76d40d
+      internalID: -2881063023264799871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructible Objects Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8467cbb4a50e0648a2e6deeb0e6df21
+      internalID: 8669984699374520145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
